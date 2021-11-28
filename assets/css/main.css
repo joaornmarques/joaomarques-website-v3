@@ -1,0 +1,70 @@
+/* ----------------
+COLORS
+---------------- */
+/* ----------------
+IMPORT FONTS
+---------------- */
+@font-face { font-family: Disket-Mono; src: url("../fonts/Disket-Mono-Bold.ttf"); font-weight: 700; font-style: normal; }
+
+@font-face { font-family: Disket-Mono; src: url("../fonts/Disket-Mono-Regular.ttf"); font-weight: 500; font-style: normal; }
+
+@font-face { font-family: Space-Grotesk; src: url("../fonts/SpaceGrotesk-Medium.ttf"); font-weight: 500; font-style: normal; }
+
+@font-face { font-family: Junicode; src: url("../fonts/JunicodeTwoBeta-Medium.ttf"); font-weight: 500; font-style: normal; }
+
+@font-face { font-family: Junicode; src: url("../fonts/JunicodeTwoBeta-MediumItalic.ttf"); font-weight: 500; font-style: italic; }
+
+@font-face { font-family: Junicode; src: url("../fonts/JunicodeTwoBeta-Bold.ttf"); font-weight: 700; font-style: normal; }
+
+@font-face { font-family: Junicode; src: url("../fonts/JunicodeTwoBeta-BoldItalic.ttf"); font-weight: 700; font-style: italic; }
+
+/* ----------------
+FONT DEFAULTS
+---------------- */
+body { font-family: 'Junicode', 'Times New Roman', serif; -moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; color: #CAFFF8; }
+
+h1, h2, h3, h4, h5, h6 { font-family: 'Disket-Mono', Helvetica, sans-serif; font-weight: 700; }
+
+/* ----------------
+FONT CLASSES
+---------------- */
+.f-disket { font-family: 'Disket-Mono', Helvetica, sans-serif; }
+
+.f-space { font-family: 'Space-Grotesk', Helvetica, sans-serif; }
+
+.f-junicode { font-family: 'Junicode', Helvetica, sans-serif; }
+
+.f-w-500 { font-weight: 500; }
+
+.f-w-700 { font-weight: 700; }
+
+body { background-color: #2B2D42; }
+
+/* ----------------
+COLORS
+---------------- */
+.u-c-neon-1 { color: #CAFFF8; }
+
+.u-c-neon-2 { color: #684DFF; }
+
+.u-c-neon-3 { color: #FC9911; }
+
+.u-c-gray-1 { color: #2B2D42; }
+
+.u-c-gray-2 { color: #8D99AE; }
+
+.u-c-gray-3 { color: #EDF2F4; }
+
+.u-bc-neon-1 { background-color: #CAFFF8; }
+
+.u-bc-neon-2 { background-color: #684DFF; }
+
+.u-bc-neon-3 { background-color: #FC9911; }
+
+.u-bc-gray-1 { background-color: #2B2D42; }
+
+.u-bc-gray-2 { background-color: #8D99AE; }
+
+.u-bc-gray-3 { background-color: #EDF2F4; }
+
+/*# sourceMappingURL=main.css.map */
