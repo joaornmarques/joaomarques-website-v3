@@ -3,12 +3,12 @@
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="assets/css/main.css" />
+    <link rel="stylesheet" href="{{'/assets/css/main.css' | absolute_url}}" />
   </head>
   <body>
     <nav>
-      <a href="/">Home</a>
-      <a href="/about">About</a>
+      <a href="{{'/' | absolute_url}}">Home</a>
+      <a href="{{'/about/' | absolute_url}}">About</a>
     </nav>
     <h1>{{ page.title }}</h1>
     <section>
