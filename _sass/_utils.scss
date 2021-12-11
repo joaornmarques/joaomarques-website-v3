@@ -2,16 +2,71 @@
 COLORS
 ---------------- */
 
-.u-c-neon-1 { color: $neon-1; }
-.u-c-neon-2 { color: $neon-2; }
-.u-c-neon-3 { color: $neon-3; }
-.u-c-gray-1 { color: $gray-1; }
-.u-c-gray-2 { color: $gray-2; }
-.u-c-gray-3 { color: $gray-3; }
+.u-c-neon-1 { color: $neon-1 !important; }
+.u-c-neon-2 { color: $neon-2 !important; }
+.u-c-neon-3 { color: $neon-3 !important; }
+.u-c-gray-1 { color: $gray-1 !important; }
+.u-c-gray-2 { color: $gray-2 !important; }
+.u-c-gray-3 { color: $gray-3 !important; }
 
-.u-bc-neon-1 { background-color: $neon-1; }
-.u-bc-neon-2 { background-color: $neon-2; }
-.u-bc-neon-3 { background-color: $neon-3; }
-.u-bc-gray-1 { background-color: $gray-1; }
-.u-bc-gray-2 { background-color: $gray-2; }
-.u-bc-gray-3 { background-color: $gray-3; }
+.u-bc-neon-1 { background-color: $neon-1 !important; }
+.u-bc-neon-2 { background-color: $neon-2 !important; }
+.u-bc-neon-3 { background-color: $neon-3 !important; }
+.u-bc-gray-1 { background-color: $gray-1 !important; }
+.u-bc-gray-2 { background-color: $gray-2 !important; }
+.u-bc-gray-3 { background-color: $gray-3 !important; }
+
+
+/* ----------------
+SPACING
+---------------- */
+
+.u-m-0 { margin: 0 !important; }
+
+/* ----------------
+FONTS
+---------------- */
+
+.u-ft-display {
+  font-family: 'Disket-Mono', Helvetica, sans-serif !important;
+}
+
+.u-ft-sans {
+  font-family: 'Space-Grotesk', Helvetica, sans-serif !important;
+}
+
+.u-ft-serif {
+  font-family: 'Junicode', Helvetica, sans-serif !important;
+}
+
+.u-fw-500 { font-weight: 500 !important; }
+.u-fw-700 { font-weight: 700 !important; }
+
+/* ----------------
+TYPESCALE
+---------------- */
+
+.u-ts-1 {
+  font-size: $ts-fs-1 !important;
+  line-height: $ts-lh-1 !important;
+}
+
+.u-ts-2 {
+  font-size: $ts-fs-2 !important;
+  line-height: $ts-lh-2 !important;
+}
+
+.u-ts-3 {
+  font-size: $ts-fs-3 !important;
+  line-height: $ts-lh-3 !important;
+}
+
+.u-ts-4 {
+  font-size: $ts-fs-4 !important;
+  line-height: $ts-lh-4 !important;
+}
+
+.u-ts-5 {
+  font-size: $ts-fs-5 !important;
+  line-height: $ts-lh-5 !important;
+}

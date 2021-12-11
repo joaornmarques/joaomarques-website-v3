@@ -15,14 +15,37 @@ layout: default
 
 This is an example. **How about** *this*, ***and this***
 
-<p class="f-space">Another text example, now on a geometric font</p>
+<p class="f-sans">Another text example, now on a geometric font</p>
 
 <div class="u-bc-neon-2">
-  <p class="f-space">More text, now on another background</p>
+  <p class="f-sans ts-1">More text, now on another background</p>
 </div>
 <div class="u-bc-gray-2">
-  <p class="f-space u-c-gray-3">More text, now on another background</p>
+  <p class="f-sans u-c-gray-3">More text, now on another background</p>
 </div>
 <div class="u-bc-neon-3">
-  <p class="f-space u-c-gray-1">More text, now on another background</p>
+  <p class="f-sans u-c-gray-1">More text, now on another background</p>
 </div>
+
+<br>
+
+##### Typescale
+
+<p class="u-ft-display u-ts-1 u-m-0">Font size 1</p>
+<p class="u-ft-display u-ts-2 u-m-0">Font size 2</p>
+<p class="u-ft-display u-ts-3 u-m-0">Font size 3</p>
+<p class="u-ft-display u-ts-4 u-m-0">Font size 4</p>
+<p class="u-ft-display u-ts-5 u-m-0">Font size 5</p>
+<br>
+<p class="u-ts-1 u-m-0">Font size 1</p>
+<p class="u-ts-2 u-m-0">Font size 2</p>
+<p class="u-ts-3 u-m-0">Font size 3</p>
+<p class="u-ts-4 u-m-0">Font size 4</p>
+<p class="u-ts-5 u-m-0">Font size 5</p>
+<br>
+<p class="u-ft-sans u-ts-1 u-m-0">Font size 1</p>
+<p class="u-ft-sans u-ts-2 u-m-0">Font size 2</p>
+<p class="u-ft-sans u-ts-3 u-m-0">Font size 3</p>
+<p class="u-ft-sans u-ts-4 u-m-0">Font size 4</p>
+<p class="u-ft-sans u-ts-5 u-m-0">Font size 5</p>
+<br>
