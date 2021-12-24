@@ -31,21 +31,32 @@ This is an example. **How about** *this*, ***and this***
 
 ##### Typescale
 
-<p class="u-ft-display u-ts-1 u-m-0">Font size 1</p>
-<p class="u-ft-display u-ts-2 u-m-0">Font size 2</p>
-<p class="u-ft-display u-ts-3 u-m-0">Font size 3</p>
-<p class="u-ft-display u-ts-4 u-m-0">Font size 4</p>
-<p class="u-ft-display u-ts-5 u-m-0">Font size 5</p>
-<br>
-<p class="u-ts-1 u-m-0">Font size 1</p>
-<p class="u-ts-2 u-m-0">Font size 2</p>
-<p class="u-ts-3 u-m-0">Font size 3</p>
-<p class="u-ts-4 u-m-0">Font size 4</p>
-<p class="u-ts-5 u-m-0">Font size 5</p>
-<br>
-<p class="u-ft-sans u-ts-1 u-m-0">Font size 1</p>
-<p class="u-ft-sans u-ts-2 u-m-0">Font size 2</p>
-<p class="u-ft-sans u-ts-3 u-m-0">Font size 3</p>
-<p class="u-ft-sans u-ts-4 u-m-0">Font size 4</p>
-<p class="u-ft-sans u-ts-5 u-m-0">Font size 5</p>
-<br>
+<div class="row">
+  <div class="col-6 col-md-12 u-bc-gray-2 u-c-gray-3">
+    <div class="u-p-2">
+      <p class="u-ft-display u-ts-1 u-m-0">Font size 1</p>
+      <p class="u-ft-display u-ts-2 u-m-0">Font size 2</p>
+      <p class="u-ft-display u-ts-3 u-m-0">Font size 3</p>
+      <p class="u-ft-display u-ts-4 u-m-0">Font size 4</p>
+      <p class="u-ft-display u-ts-5 u-m-0">Font size 5</p>
+    </div>
+  </div>
+  <div class="col-6 col-md-12 u-bc-neon-2">
+    <div class="u-p-2">
+      <p class="u-ts-1 u-m-0">Font size 1</p>
+      <p class="u-ts-2 u-m-0">Font size 2</p>
+      <p class="u-ts-3 u-m-0">Font size 3</p>
+      <p class="u-ts-4 u-m-0">Font size 4</p>
+      <p class="u-ts-5 u-m-0">Font size 5</p>
+    </div>
+  </div>
+  <div class="col-6 col-md-12 u-bc-neon-3 u-c-gray-1">
+    <div class="u-p-2">
+      <p class="u-ft-sans u-ts-1 u-m-0">Font size 1</p>
+      <p class="u-ft-sans u-ts-2 u-m-0">Font size 2</p>
+      <p class="u-ft-sans u-ts-3 u-m-0">Font size 3</p>
+      <p class="u-ft-sans u-ts-4 u-m-0">Font size 4</p>
+      <p class="u-ft-sans u-ts-5 u-m-0">Font size 5</p>
+    </div>
+  </div>
+</div>

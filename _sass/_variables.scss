@@ -3,13 +3,11 @@ COLORS
 ---------------- */
 
 // Neon
-
 $neon-1: #CAFFF8;
 $neon-2: #684DFF;
 $neon-3: #FC9911;
 
 // Gray
-
 $gray-1: #2B2D42;
 $gray-2: #8D99AE;
 $gray-3: #EDF2F4;
@@ -20,7 +18,6 @@ TYPESCALE
 ---------------- */
 
 // Font-size
-
 $ts-fs-1: 90px;
 $ts-fs-2: 45px;
 $ts-fs-3: 23px;
@@ -28,9 +25,20 @@ $ts-fs-4: 16px;
 $ts-fs-5: 12px;
 
 // Line height
-
 $ts-lh-1: 99px;
 $ts-lh-2: 54px;
 $ts-lh-3: 32px;
 $ts-lh-4: 23px;
 $ts-lh-5: 17px;
+
+/* ----------------
+SPACING
+---------------- */
+
+$spacing: 8px;
+
+/* ----------------
+RESPONSIVE
+---------------- */
+
+$breakpoint: 768px;

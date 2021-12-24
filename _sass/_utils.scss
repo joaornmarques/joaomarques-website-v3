@@ -23,6 +23,49 @@ SPACING
 
 .u-m-0 { margin: 0 !important; }
 
+@for $i from 1 through 8 {
+  .u-m-#{$i} {
+    margin: $spacing * $i !important;
+  }
+
+  .u-mt-#{$i} {
+    margin-top: $spacing * $i !important;
+  }
+
+  .u-mb-#{$i} {
+    margin-bottom: $spacing * $i !important;
+  }
+
+  .u-ml-#{$i} {
+    margin-left: $spacing * $i !important;
+  }
+
+  .u-mr-#{$i} {
+    margin-right: $spacing * $i !important;
+  }
+
+  .u-p-#{$i} {
+    padding: $spacing * $i !important;
+  }
+
+  .u-pt-#{$i} {
+    padding-top: $spacing * $i !important;
+  }
+
+  .u-pb-#{$i} {
+    padding-bottom: $spacing * $i !important;
+  }
+
+  .u-pl-#{$i} {
+    padding-left: $spacing * $i !important;
+  }
+
+  .u-pr-#{$i} {
+    padding-right: $spacing * $i !important;
+  }
+
+}
+
 /* ----------------
 FONTS
 ---------------- */
