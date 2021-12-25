@@ -16,6 +16,13 @@ COLORS
 .u-bc-gray-2 { background-color: $gray-2 !important; }
 .u-bc-gray-3 { background-color: $gray-3 !important; }
 
+.u-cf-neon-1 { fill: $neon-1 !important; }
+.u-cf-neon-2 { fill: $neon-2 !important; }
+.u-cf-neon-3 { fill: $neon-3 !important; }
+.u-cf-gray-1 { fill: $gray-1 !important; }
+.u-cf-gray-2 { fill: $gray-2 !important; }
+.u-cf-gray-3 { fill: $gray-3 !important; }
+
 
 /* ----------------
 SPACING
@@ -113,3 +120,18 @@ TYPESCALE
   font-size: $ts-fs-5 !important;
   line-height: $ts-lh-5 !important;
 }
+
+/* ----------------
+FLEX
+---------------- */
+
+.u-flex-0_9 { flex: 0.9 !important }
+.u-flex-1 { flex: 1 !important }
+.u-flex-2 { flex: 2 !important }
+
+/* ----------------
+POSITION
+---------------- */
+
+.u-pos-relative { position: relative; }
+.u-pos-absolute { position: absolute; }
