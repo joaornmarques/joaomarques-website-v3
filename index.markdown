@@ -60,7 +60,7 @@ layout: default
         <div class="col-12">
           <div class="c-image-label-wrapper u-mb-4">
             <div class="u-cf-gray-1 u-mr-1 u-mb-1">
-              <img class="c-image-lg" src="{{absolute_url}}/assets/images/profile-pic.png"/>
+              <img class="c-image-lg" src="assets/images/profile-pic.png"/>
             </div>
             <p class="u-ts-6 u-ft-display u-mb-1 u-mr-2">profile-pic.png<br>176x176px</p>
           </div>
@@ -88,7 +88,7 @@ layout: default
         </div>
         <p class="u-ts-6 u-ft-display u-mb-1">abxy-logo.svg<br>303x72px</p>
       </div>
-      <a class="c-button u-mb-5" href="{{'/abxy/' | absolute_url}}">Visit ABXY >></a>
+      <a class="c-button u-mb-5" href="{{'abxy' | absolute_url}}">Visit ABXY >></a>
       <div class="c-postcard-footer">
         <p class="c-postcard-footer__text">Gaming<br>since ever</p>
         <div class="c-postcard-footer__icon u-cf-neon-1">

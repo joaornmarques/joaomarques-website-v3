@@ -20,7 +20,7 @@ layout: abxy-home
   {% if counter == 1 %}
     <a href="{{ post.url }}" class="col-12 c-postcard">
       {% if post.thumbnail %}
-        <img src="{{absolute_url}}/assets/images/{{ post.thumbnail }}" class="c-postcard__img"/>
+        <img src="assets/images/{{ post.thumbnail }}" class="c-postcard__img"/>
       {% endif %}
       <article class="c-postcard__content">
         <div>
@@ -36,7 +36,7 @@ layout: abxy-home
   {% else %}
     <a href="{{ post.url }}" class="col-12 col-md-6 c-postcard c-postcard--small">
       {% if post.thumbnail %}
-        <img src="{{absolute_url}}/assets/images/{{ post.thumbnail }}" class="c-postcard__img"/>
+        <img src="assets/images/{{ post.thumbnail }}" class="c-postcard__img"/>
       {% endif %}
       <article class="c-postcard__content">
         <div>
