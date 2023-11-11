@@ -65,10 +65,16 @@ body {
 	font-family: 'Junicode', 'Times New Roman', serif;
 	-moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  color: $neon-1;
+  color: $gray-3;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Disket-Mono', Helvetica, sans-serif;
   font-weight: 700;
+  letter-spacing: -0.5px;
+}
+
+p {
+  margin: 0;
+  letter-spacing: -0.5px;
 }

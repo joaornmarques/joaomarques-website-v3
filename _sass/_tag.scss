@@ -1,0 +1,9 @@
+.c-tag {
+  font-family: $font-display;
+  letter-spacing: -0.05em;
+  font-weight: 700;
+  border: solid 2px;
+  display: inline-block;
+  padding: $spacing * 0.5 $spacing;
+  border-radius: $spacing * 2;
+}

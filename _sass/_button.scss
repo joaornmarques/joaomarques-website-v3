@@ -1,0 +1,28 @@
+.c-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-family: $font-display;
+  font-size: $ts-fs-6;
+  line-height: $ts-fs-6;
+  font-weight: 700;
+  text-decoration: none;
+  padding: $spacing * 1.5;
+  color: $neon-1;
+  border: solid 2px $neon-1;
+  transition: 0.1s ease;
+
+  &:hover {
+    animation: hover 0.2s;
+    background-color: $neon-3;
+    color: $gray-1;
+    border-color: $neon-3;
+  }
+}
+
+@keyframes hover {
+  0% { background-color: transparent; }
+  33% { background-color: $neon-3; border-color: $gray-1; }
+  66% { background-color: transparent; border-color: $gray-1; }
+  100% { background-color: $neon-3; }
+}

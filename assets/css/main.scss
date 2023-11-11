@@ -1,10 +1,21 @@
 ---
 ---
+// base
 @import "vendors/normalize";
 @import "variables";
 @import "typography";
 @import "grid";
 
+// components
+@import "navbar";
+@import "button";
+@import "footer";
+@import "text";
 @import "shape";
+@import "image";
+@import "abxy";
+@import "postcard";
+@import "tag";
 
+// utils
 @import "utils";

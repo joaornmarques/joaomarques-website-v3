@@ -1,0 +1,98 @@
+.c-postcard {
+  position: relative;
+  background-color: $gray-1;
+  color: $gray-3;
+  text-decoration: none;
+  // aspect-ratio: 2 / 1;
+  transition: 0.1s ease;
+  min-height: $spacing * 37;
+  display: flex;
+
+  &--small {
+    .c-postcard__img {
+      opacity: 0.2;
+    }
+
+    @media only screen and (min-width: $breakpoint) {
+      &:nth-child(4n+1),
+      &:nth-child(4n+2) {
+        background-color: $neon-2;
+        color: $gray-3;
+      }
+      &:nth-child(4n+3),
+      &:nth-child(4n+4) {
+        background-color: $gray-3;
+        color: $gray-1;
+      }
+    }
+  
+    @media only screen and (max-width: $breakpoint) {
+      &:nth-child(odd) {
+        background-color: $neon-2;
+        color: $gray-3;
+      }
+      &:nth-child(even) {
+        background-color: $gray-3;
+        color: $gray-1;
+      }
+    }
+  }
+
+
+  &:focus,
+  &:hover {
+    background-color: $neon-3;
+    color: $gray-3;
+  }
+}
+
+.c-postcard__img {
+  position: absolute;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: grayscale(100%);
+  mix-blend-mode: multiply;
+  opacity: 0.5;
+}
+
+.c-postcard__content {
+  position: relative;
+  z-index: 2;
+  padding: $spacing * 2;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: auto;
+  box-sizing: border-box;
+
+  @media only screen and (min-width: $breakpoint) {
+    padding: $spacing * 3;
+  }
+}
+
+.c-postcard-footer {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  border-bottom: solid 1px;
+  border-color: inherit;
+  padding-bottom: $spacing * 2;
+}
+
+.c-postcard-footer__icon {
+  width: $spacing * 5;
+  height: $spacing * 5;
+  display: flex;
+}
+
+.c-postcard-footer__text {
+  font-size: $ts-fs-6;
+  line-height: $ts-lh-6;
+  margin-bottom: 0;
+  font-family: $font-display;
+  &:last-child {
+    text-align: right;
+  }
+}

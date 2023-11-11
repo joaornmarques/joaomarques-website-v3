@@ -1,0 +1,34 @@
+.c-footer {
+  display: flex;
+  justify-content: space-between;
+  padding: $spacing * 2 $spacing $spacing $spacing;
+  font-family: $font-display;
+  font-size: $ts-fs-6;
+  line-height: $ts-fs-6;
+  flex-direction: column;
+  
+  @media only screen and (min-width: $breakpoint) {
+    padding: $spacing * 3;
+    flex-direction: row;
+  }
+}
+
+.c-footer__link {
+  text-decoration: none;
+  color: inherit;
+  font-weight: 700;
+
+  &:focus,
+  &:hover {
+    color: $neon-3;
+    border-bottom: solid 1px $neon-3;
+  }
+}
+
+.c-footer__description {
+  display: none;
+  
+  @media only screen and (min-width: $breakpoint) {
+    display: inline-block;
+  }
+}

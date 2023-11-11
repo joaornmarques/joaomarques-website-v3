@@ -12,24 +12,39 @@ $gray-1: #2B2D42;
 $gray-2: #8D99AE;
 $gray-3: #EDF2F4;
 
+/* ----------------
+TYPOGRAPHY
+---------------- */
+
+$font-display: 'Disket-Mono', Helvetica, sans-serif;
+$font-sans: 'Space-Grotesk', Helvetica, sans-serif;
+$font-serif: 'Junicode', 'Times New Roman', serif;
 
 /* ----------------
 TYPESCALE
 ---------------- */
 
 // Font-size
-$ts-fs-1: 90px;
-$ts-fs-2: 45px;
-$ts-fs-3: 23px;
-$ts-fs-4: 16px;
-$ts-fs-5: 12px;
+$ts-fs-1-md: 90px;
+$ts-fs-1: 60px;
+$ts-fs-2-md: 72px;
+$ts-fs-2: 50px;
+$ts-fs-3-md: 45px;
+$ts-fs-3: 36px;
+$ts-fs-4: 28px;
+$ts-fs-5: 20px;
+$ts-fs-6: 16px;
 
 // Line height
-$ts-lh-1: 99px;
-$ts-lh-2: 54px;
-$ts-lh-3: 32px;
-$ts-lh-4: 23px;
-$ts-lh-5: 17px;
+$ts-lh-1-md: 90px;
+$ts-lh-1: 60px;
+$ts-lh-2-md: 72px;
+$ts-lh-2: 50px;
+$ts-lh-3-md: 45px;
+$ts-lh-3: 36px;
+$ts-lh-4: 34px;
+$ts-lh-5: 28px;
+$ts-lh-6: 20px;
 
 /* ----------------
 SPACING
