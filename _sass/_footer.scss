@@ -1,15 +1,17 @@
 .c-footer {
   display: flex;
   justify-content: space-between;
-  padding: $spacing * 2 $spacing $spacing $spacing;
+  padding: $spacing * 2;
   font-family: $font-display;
   font-size: $ts-fs-6;
   line-height: $ts-fs-6;
   flex-direction: column;
+  text-align: right;
   
   @media only screen and (min-width: $breakpoint) {
     padding: $spacing * 3;
     flex-direction: row;
+    text-align: left;
   }
 }
 

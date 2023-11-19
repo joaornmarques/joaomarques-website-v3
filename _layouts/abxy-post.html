@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" style="background-color: #8D99AE;">
+<html lang="en" class="u-bc-gray-3">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,9 +7,29 @@
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="{{'/assets/css/main.css' | absolute_url}}" />
   </head>
-  <body class="u-c-gray-3">
-    {% include navbar-gray-2.html %}
-    {{ content }}
+  <body class="u-c-gray-1">
+    {% include navbar-gray-3.html %}
+    <header class="c-post-header">
+      {% if page.thumbnail %}
+        <img src="/assets/images/{{ page.thumbnail }}" class="c-post-header__img"/>
+      {% endif %}
+      <a class="c-post-header__logo" title="ABXY homepage" href="{{'abxy' | absolute_url}}">
+        {% include shapes/abxy.html %}
+      </a>
+      <div class="u-z-index-2">
+        <h1 class="u-ts-3 u-ft-display u-mt-3 u-mt-5-md u-mb-0">{{ page.title }}</h1>
+        <h2 class="u-ts-4 u-ft-serif u-mt-0 u-mb-4 u-mb-12-md u-fw-500">{{ page.subtitle }}</h2>
+      </div>
+      <div class="u-z-index-2">
+        <p class="u-ts-6 u-ft-display u-mb-1">{{ page.date | date_to_long_string: "ordinal" }}</p>
+        <p class="c-tag u-mb-5">{{ page.tag }}</p>
+      </div>
+    </header>
+    <article class="c-post">
+      {{ content }}
+      <hr class="u-mb-5">
+      <a class="c-button c-button--light" href="{{'abxy' | absolute_url}}"><< More posts</a>
+    </article>
     {% include footer.html %}
     <script type="text/javascript" src="{{'/assets/js/main.js' | absolute_url}}"></script>
   </body>

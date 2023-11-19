@@ -1,12 +1,16 @@
 <nav class="c-navbar">
-  <a href="{{'/' | absolute_url}}" class="c-navbar__logo">
+  <a href="{{'/' | absolute_url}}" title="joaomarques.website homepage" class="c-navbar__logo">
     {% include shapes/logo.html %}
   </a>
   <div class="c-navbar__menu">
-    <a class="c-navbar__button u-fw-700" href="{{'/' | absolute_url}}">joaomarques.website</a>
-    <a class="c-navbar__button" href="{{'abxy' | absolute_url}}">/abxy</a>
+    <a class="c-navbar__button u-fw-700" href="{{'/' | absolute_url}}" title="joaomarques.website homepage">joaomarques.website</a>
+    <a class="c-navbar__button" href="{{'abxy' | absolute_url}}" title="ABXY homepage">/abxy</a>
   </div>
-  <div class="c-navbar__icon u-cf-neon-1">
+  <button
+    onclick="window.scrollTo({top: 0, behavior: 'smooth'});"
+    class="c-navbar__icon u-cf-neon-1"
+    title="Go to top"
+  >
     {% include shapes/wheel.html %}
-  </div>
+  </button>
 </nav>

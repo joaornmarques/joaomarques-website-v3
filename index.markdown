@@ -50,7 +50,7 @@ layout: default
     <div class="u-p-2 u-pt-2 u-pb-2 u-p-3-md">
       <p class="u-ts-6 u-ft-display u-mb-4">Section:<b>{about-me}</b></p>
       <p class="u-ts-4 text-block u-mb-5">
-        I'm a multidisciplinary designer who can't choose between design and code, so I end up doing both.
+        I'm a multidisciplinary designer and developer who can't choose between design and code, so I end up doing both.
         <br><br>
         With more than 7 years of experience, helping build many different types of platforms and websites, my constant motivation is to blend the boundaries between creative and logical thinking.
         <br><br>
@@ -77,7 +77,7 @@ layout: default
   <section class="col-12 col-md-6 u-bc-neon-2">
     <div class="u-p-2 u-pt-2 u-pb-2 u-p-3-md">
       <p class="u-ts-6 u-ft-display u-mb-4">Section:<b>{ABXY}</b></p>
-      <p class="u-ts-4 u-ft-sans text-block u-mb-5">
+      <p class="u-ts-4 u-ft-sans text-block u-mb-5 u-fw-500">
         I also have a small obsession with gaming, while playing as many different games as possible, from the classics to some of the most recent releases.
         <br><br>
         When not playing, I'm writing about it on my fresh new blog, ABXY.

@@ -18,6 +18,15 @@
     color: $gray-1;
     border-color: $neon-3;
   }
+
+  &--light {
+    border-color: $gray-1;
+    color: $gray-1;
+
+    &:hover {
+      color: $gray-3;
+    }
+  }
 }
 
 @keyframes hover {

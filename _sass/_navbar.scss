@@ -14,8 +14,8 @@
     padding: $spacing * 3;
   }
 
-  &--neon-2,
-  &--gray-2 {
+  &--neon-2 {
+    background: linear-gradient(rgba($neon-2,0.8), rgba($neon-2,0));
     .c-navbar__logo {
       fill: $gray-3;
     }
@@ -24,12 +24,14 @@
     }
   }
 
-  &--neon-2 {
-    background: linear-gradient(rgba($neon-2,0.8), rgba($neon-2,0));
-  }
-
-  &--gray-2 {
-    background: linear-gradient(rgba($gray-2,0.8), rgba($gray-2,0));
+  &--gray-3 {
+    background: linear-gradient(rgba($gray-3,1), rgba($gray-3,0));
+    .c-navbar__logo {
+      fill: $gray-1;
+    }
+    .c-navbar__button {
+      color: $gray-1;
+    }
   }
 
   &--blend {
@@ -105,12 +107,29 @@
   height: $spacing * 5;
   min-width: $spacing * 5;
   min-height: $spacing * 5;
+  background-color: transparent;
+  padding: 0;
+  border: none;
+  cursor: pointer;
+
+  svg {
+    transform: rotateZ(0);
+    transition: transform 0.6s ease, fill 0.2s ease;
+  }
   
   @media only screen and (min-width: $breakpoint) {
     width: $spacing * 7;
     height: $spacing * 7;
     min-width: $spacing * 7;
     min-height: $spacing * 7;
+  }
+
+  &:focus,
+  &:hover {
+    svg {
+      fill: $neon-3;
+      transform: rotateX(-360deg);
+    }
   }
 }
 
