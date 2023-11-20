@@ -1,6 +1,7 @@
 ---
 title: João Marques ✲ UX/UI Designer & Front-end developer
-description: A multidisciplinary designer and developer who can't choose between design and code.
+title_meta: João Marques
+description: UX/UI Designer & Front-end developer
 thumbnail: thumbnail.jpg
 layout: default
 ---
@@ -80,7 +81,7 @@ layout: default
     <div class="u-p-2 u-pt-2 u-pb-2 u-p-3-md">
       <p class="u-ts-6 u-ft-display u-mb-4">Section:<b>{ABXY}</b></p>
       <p class="u-ts-4 u-ft-sans text-block u-mb-5 u-fw-500">
-        I also have a small obsession with gaming, while playing as many different games as possible, from the classics to some of the most recent releases.
+        I also have a small obsession with gaming, by playing as many different games as possible, from the classics to some of the most recent releases.
         <br><br>
         When not playing, I'm writing about it on my fresh new blog, ABXY.
       </p>

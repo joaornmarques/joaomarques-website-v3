@@ -1,6 +1,13 @@
 <!doctype html>
 <html lang="en" class="u-bc-neon-2">
-  {% include head.html title=page.title description=page.description thumbnail=page.thumbnail favicon="abxy-favicon.png" favicon_32="abxy-favicon-32x32.png" %}
+  {% include head.html
+    title=page.title
+    title_meta=page.title_meta
+    description=page.description
+    thumbnail=page.thumbnail
+    favicon="abxy-favicon.png"
+    favicon_32="abxy-favicon-32x32.png"
+  %}
   <body>
     {% include navbar-neon-2.html %}
     {{ content }}

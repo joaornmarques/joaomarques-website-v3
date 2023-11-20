@@ -1,5 +1,6 @@
 ---
-title: ABXY
+title: ABXY ● Gaming thoughts, reviews and something in between.
+title_meta: ABXY
 description: Gaming thoughts, reviews and something in between.
 thumbnail: abxy-thumbnail.jpg
 layout: abxy-home
@@ -53,7 +54,7 @@ layout: abxy-home
     </a>
   {% endif %}
   {% endfor %}
-  <div class="col-12 col-md-6 u-p-2 u-p-3-md u-pb-10">
+  <div class="col-12 col-md-6 u-p-2 u-p-3-md u-bc-gray-1">
     <p class="u-ft-display u-fw-700 u-ts-5">That's all for now</p>
     <p class="u-ft-sans u-ts-6">More content coming soon.</p>
   </div>

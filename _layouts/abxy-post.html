@@ -1,6 +1,14 @@
 <!doctype html>
 <html lang="en" class="u-bc-gray-3">
-  {% include head.html title_prepend="ABXY ● " title=page.title description=page.subtitle thumbnail=page.thumbnail favicon="abxy-favicon.png" favicon_32="abxy-favicon-32x32.png" %}
+  {% include head.html
+    title=page.title
+    title_meta=page.title
+    title_append=" ● ABXY"
+    description=page.subtitle
+    thumbnail=page.thumbnail
+    favicon="abxy-favicon.png"
+    favicon_32="abxy-favicon-32x32.png"
+  %}
   <body class="u-c-gray-1">
     {% include navbar-gray-3.html %}
     <header class="c-post-header">
@@ -22,7 +30,7 @@
     <article class="c-post">
       {{ content }}
       <hr class="u-mb-5">
-      <a class="c-button c-button--light" href="{{'abxy' | absolute_url}}"><< More posts</a>
+      <a class="c-button c-button--light" href="{{'abxy' | absolute_url}}" title="ABXY homepage"><< More posts</a>
     </article>
     {% include footer.html %}
     <script type="text/javascript" src="{{'/assets/js/main.js' | absolute_url}}"></script>

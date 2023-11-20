@@ -3,12 +3,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="{{'/assets/css/main.css' | absolute_url}}" />
-  <title>{{ include.title_prepend }}{{ include.title }}</title>
+  <title>{{ include.title }}{{ include.title_append }}</title>
   <meta content="{{ include.description }}" name="description">
-  <meta content="{{ include.title_prepend }}{{ include.title }}" property="og:title">
+  <meta content="{{ include.title_meta }}{{ include.title_append }}" property="og:title">
   <meta content="{{ include.description }}" property="og:description">
   <meta content="https://joaomarques.website/assets/images/{{ include.thumbnail }}" property="og:image" name="image">
-  <meta content="{{ include.title_prepend }}{{ include.title }}" property="twitter:title">
+  <meta content="{{ include.title }}{{ include.title_append }}" property="twitter:title">
   <meta content="{{ include.description }}" property="twitter:description">
   <meta content="https://joaomarques.website/assets/images/{{ include.thumbnail }}" property="twitter:image">
   <meta content="summary_large_image" name="twitter:card">
