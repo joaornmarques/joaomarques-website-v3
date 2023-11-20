@@ -1,12 +1,6 @@
 <!doctype html>
 <html lang="en" class="u-bc-neon-2">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="{{'/assets/css/main.css' | absolute_url}}" />
-  </head>
+  {% include head.html title=page.title description=page.description thumbnail=page.thumbnail favicon="abxy-favicon.png" favicon_32="abxy-favicon-32x32.png" %}
   <body>
     {% include navbar-neon-2.html %}
     {{ content }}

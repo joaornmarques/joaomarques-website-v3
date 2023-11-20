@@ -1,5 +1,7 @@
 ---
-title: joaomarques.website [v3]
+title: João Marques ✲ UX/UI Designer & Front-end developer
+description: A multidisciplinary designer and developer who can't choose between design and code.
+thumbnail: thumbnail.jpg
 layout: default
 ---
 

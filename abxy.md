@@ -1,5 +1,7 @@
 ---
 title: ABXY
+description: Gaming thoughts, reviews and something in between.
+thumbnail: abxy-thumbnail.jpg
 layout: abxy-home
 ---
 <header class="u-p-2 u-p-3-md">
