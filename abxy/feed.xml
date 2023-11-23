@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://joaomarques.website/abxy/feed.xml" rel="self" type="application/atom+xml" /><link href="https://joaomarques.website/" rel="alternate" type="text/html" /><updated>2023-11-23T22:29:19+00:00</updated><id>https://joaomarques.website/abxy/feed.xml</id><title type="html">João Marques | Abxy</title><subtitle>UX/UI Designer &amp; Front-end developer</subtitle><entry><title type="html">The ABXY review system</title><link href="https://joaomarques.website/abxy/abxy-review-system" rel="alternate" type="text/html" title="The ABXY review system" /><published>2023-11-23T00:00:00+00:00</published><updated>2023-11-23T00:00:00+00:00</updated><id>https://joaomarques.website/abxy/abxy-review-system</id><content type="html" xml:base="https://joaomarques.website/abxy/abxy-review-system">&lt;p&gt;Ah, game reviews. Just like in every other type of media review, there isn’t a single kind of content that can drive so much excitement, or ire (mostly ire), of the rabid fans of the piece subjected to scrutiny. No review is perfect or the source of universal truth, as everyone has their biases, including the people whose job is to write them. I also have my own bias, but in my case nobody pays me to write reviews, so I have no lobbies to please. I can guarantee you that at least.
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;But how I will rate each game I review? That’s the question that nobody asked, but I will answer regardless. I’m not interested in complex rating systems, with decimal points, or scores for each aspect of the game. I find quite difficult to associate numbers to an experience in a logical way, so I will associate stars instead, just like this: ✦✧✧✧✧. This is an example of a 1 out of 5 star review, that in its essence is a numbered rating and invalidates everything I said so far. But at least, with only five rating tiers, I can correlate a specific feeling to each one of them. Which feelings you may ask? The following ones:&lt;/p&gt;
+
+&lt;h3 id=&quot;bad&quot;&gt;Bad✦✧✧✧✧&lt;/h3&gt;
+&lt;p&gt;Well, this one is somewhat obvious. This rating is for the kind of game that I didn’t enjoyed at all, but it still had some redeeming quality, as little as it could be comparing with all the other major issues, that pushed me at least to finish it. Otherwise I would simply drop it after a few minutes, without even considering writing a review about it. A game worth of this rating is &lt;strong&gt;Sonic R&lt;/strong&gt;. Its gameplay is absolutely hideous, but it was graced with one of the best soundtracks in the entire series.
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;c-post__img&quot;&gt;
+  &lt;div class=&quot;c-post__video&quot;&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/1b8F1qa5-eM&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;
+    &lt;/iframe&gt;
+  &lt;/div&gt;
+  &lt;figcaption&gt;❖ Right from the title screen you can tell the music is good.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;okay&quot;&gt;Okay✦✦✧✧✧&lt;/h3&gt;
+&lt;p&gt;This one is reserved for games that weren’t that obnoxiously bad or frustrating, but didn’t went anywhere particularly interesting or new, falling in the land of mediocrity. One relatively recent example of that is &lt;strong&gt;Mario Strikers: Battle League Football&lt;/strong&gt;. A game that looks and plays fine, but it isn’t captivating in the slightest, doing little to keep the players invested, either in single player or online.
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;c-post__img&quot;&gt;
+  &lt;div class=&quot;c-post__video&quot;&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/H85m53GeWZo&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;
+    &lt;/iframe&gt;
+  &lt;/div&gt;
+  &lt;figcaption&gt;❖ At least the cutscenes look cool.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;good&quot;&gt;Good✦✦✦✧✧&lt;/h3&gt;
+&lt;p&gt;The middle of the road. Now the subject was something far from bad, but still a few steps away of excellence. This are the kind of games that were entertaining during their playthrough, but lacked that special factor that elevate them to an unforgetable experience. For me, &lt;strong&gt;Marvel’s Spider Man&lt;/strong&gt; encapsulates well this feeling. A game with a sublime gameplay but a not so interesting plot or variety of things to do.
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;c-post__img&quot;&gt;
+  &lt;div class=&quot;c-post__video&quot;&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/rfiLXMZE_Hw&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;
+    &lt;/iframe&gt;
+  &lt;/div&gt;
+  &lt;figcaption&gt;❖ Web slinging around New York feels admittedly satisfying.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;great&quot;&gt;Great✦✦✦✦✧&lt;/h3&gt;
+&lt;p&gt;Now we are talking seriously. Even if it’s not the highest rating, for a game to be “great”, it needs to get near perfection. But yet, a great game may lacks in some specific aspects that impede them to reach that level. I experienced that with &lt;strong&gt;Mirror’s Edge&lt;/strong&gt;. The concept, music and artstyle were incredible, but the execution wasn’t refined enough.
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;c-post__img&quot;&gt;
+  &lt;div class=&quot;c-post__video&quot;&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Jzj8OX1iUiY&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;
+    &lt;/iframe&gt;
+  &lt;/div&gt;
+  &lt;figcaption&gt;❖ By far the best parkour game ever made.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;masterpice&quot;&gt;Masterpice✦✦✦✦✦&lt;/h3&gt;
+&lt;p&gt;The pinnacle of entertainment. This rating is reserved to games that I may consider my favourites of all time. Note that they might not be perfect for everyone, or even perfect on a technical standpoint, but they are perfect to me. &lt;strong&gt;The Legend of Zelda: Breath of the Wild&lt;/strong&gt; is my most immediate example of a masterpice. I cannot even describe it in one sentence.
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;c-post__img&quot;&gt;
+  &lt;div class=&quot;c-post__video&quot;&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/JbhS4OXWNsE&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;
+    &lt;/iframe&gt;
+  &lt;/div&gt;
+  &lt;figcaption&gt;❖ Few moments in gaming beat the one when we observe Hyrule's landscape for the first time.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;
+This sums up how I will rate games here on ABXY. Of course, the rating is only part of the story, as it will be paired with a few paragraphs explaing why I decided to attribue it to the game in question.
+&lt;br /&gt;&lt;br /&gt;
+That’s all for now. See you next time, on my first review here.
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name></name></author><category term="update" /><summary type="html">Ah, game reviews. Just like in every other type of media review, there isn’t a single kind of content that can drive so much excitement, or ire (mostly ire), of the rabid fans of the piece subjected to scrutiny. No review is perfect or the source of universal truth, as everyone has their biases, including the people whose job is to write them. I also have my own bias, but in my case nobody pays me to write reviews, so I have no lobbies to please. I can guarantee you that at least.</summary></entry><entry><title type="html">Welcome to ABXY</title><link href="https://joaomarques.website/abxy/welcome-to-abxy" rel="alternate" type="text/html" title="Welcome to ABXY" /><published>2023-11-22T00:00:00+00:00</published><updated>2023-11-22T00:00:00+00:00</updated><id>https://joaomarques.website/abxy/welcome-to-abxy</id><content type="html" xml:base="https://joaomarques.website/abxy/welcome-to-abxy">&lt;p&gt;Hi, welcome to ABXY, my blog about gaming. Maybe “blog” is an outdated term, let’s call it an independent publication instead. Anyway, in case you don’t know who I am, let me put you up to speed.
+&lt;br /&gt;&lt;br /&gt;
+I’m João, but most friends call me Chari. Videogames were always a special thing for me, even though that sentiment wasn’t shared by anyone in my family, who only saw them as way to waste time, or even an addiction. This appreciation wasn’t something inherited, even I can’t quite explain exactly how it happened, but I may point out my interest for every kind of visual and interactive media as a strong reason. It was not by chance that I became a designer and developer.
+&lt;br /&gt;&lt;br /&gt;
+Eventually I came to the conclusion that gaming was more than a hobby for me. As so, I decided to start writing about the games I play. My intention with this is obviously to share my views on them with everyone interested, but also to document my playthroughs, for sake of my own memory.
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;what-can-you-expect-from-abxy&quot;&gt;What can you expect from ABXY?&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Reviews&lt;/strong&gt;
+&lt;br /&gt;
+My main focus will be on reviewing games that I finish, considering most I play are single player. Don’t expect the most recent ones reviewed during its release window though, you have IGN, Gamespot and many other outlets for that. It can happen occasionally though, but even if I get a game on day one, I’m not going to torture myself with a speedrun just to write about it. New games are expensive, it’s a waste to rush them.
+&lt;br /&gt;&lt;br /&gt;
+&lt;strong&gt;Monthly updates&lt;/strong&gt;
+&lt;br /&gt;
+By the end of each month I’ll do a quick recap of everything I played during that period. It will be something more brief, in form of first impressions or progress report for each game.
+&lt;br /&gt;&lt;br /&gt;
+&lt;strong&gt;Opinions&lt;/strong&gt;
+&lt;br /&gt;
+Lastly, I also want to do some opinion articles, but more sporadically. I’ll only do this if I feel that I have something interesting, or funny, to say regarding the topics in question.
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;
+This is my vision for ABXY. If it’s going to be exactly like I described it? I have no idea, but I hope you and the other few ones who end up here reading my rambles at least find them entertaining.
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name></name></author><category term="update" /><summary type="html">Hi, welcome to ABXY, my blog about gaming. Maybe “blog” is an outdated term, let’s call it an independent publication instead. Anyway, in case you don’t know who I am, let me put you up to speed. I’m João, but most friends call me Chari. Videogames were always a special thing for me, even though that sentiment wasn’t shared by anyone in my family, who only saw them as way to waste time, or even an addiction. This appreciation wasn’t something inherited, even I can’t quite explain exactly how it happened, but I may point out my interest for every kind of visual and interactive media as a strong reason. It was not by chance that I became a designer and developer. Eventually I came to the conclusion that gaming was more than a hobby for me. As so, I decided to start writing about the games I play. My intention with this is obviously to share my views on them with everyone interested, but also to document my playthroughs, for sake of my own memory.</summary></entry></feed>
