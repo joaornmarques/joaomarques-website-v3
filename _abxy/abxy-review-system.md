@@ -30,7 +30,7 @@ The middle of the road. Now the subject was something far from bad, but still a 
 {% include post-video.html youtube_id='rfiLXMZE_Hw' description="Web slinging around New York feels admittedly satisfying." %}
 
 ### Great✦✦✦✦✧
-Now we are talking seriously. Even if it's not the highest rating, for a game to be "great", it needs to get near perfection. But yet, a great game may lacks in some specific aspects that impede them to reach that level. I experienced that with __Mirror's Edge__. The concept, music and artstyle were incredible, but the execution wasn't refined enough.
+Now we are talking seriously. Even if it's not the highest rating, for a game to be "great", it needs to get near perfection. But yet, a great game may lacks in some specific aspects that prevent them to reach that level. I experienced that with __Mirror's Edge__. The concept, music and artstyle were incredible, but the execution wasn't refined enough.
 <br><br>
 
 {% include post-video.html youtube_id='Jzj8OX1iUiY' description="By far the best parkour game ever made." %}
@@ -40,6 +40,7 @@ The pinnacle of entertainment. This rating is reserved to games that I may consi
 <br><br>
 
 {% include post-video.html youtube_id='JbhS4OXWNsE' description="Few moments in gaming beat the one when we observe Hyrule's landscape for the first time." %}
+<br>
 
 ***
 

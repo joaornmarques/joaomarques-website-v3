@@ -21,7 +21,7 @@
 title: João Marques
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  UX/UI Designer & Front-end developer
+  UX/UI Designer & Front-end developer. Author of the gaming blog ABXY.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://joaomarques.website" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: joaornmarques
