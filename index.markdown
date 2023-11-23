@@ -91,7 +91,7 @@ layout: default
         </div>
         <p class="u-ts-6 u-ft-display u-mb-1">abxy-logo.svg<br>303x72px</p>
       </div>
-      <a class="c-button u-mb-5" href="{{'abxy' | absolute_url}}">Visit ABXY >></a>
+      <a class="c-button u-mb-5" href="{{'abxy' | absolute_url}}" title="Visit ABXY">Visit ABXY >></a>
       <div class="c-postcard-footer">
         <p class="c-postcard-footer__text">Gaming<br>since ever</p>
         <div class="c-postcard-footer__icon u-cf-neon-1">
