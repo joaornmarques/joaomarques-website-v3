@@ -1,7 +1,7 @@
 ---
 title: Welcome to ABXY
 subtitle: Everyone has to start somewhere, right?
-date: 2023-11-22
+date: 2023-12-02
 tag: update
 layout: abxy-post
 ---
