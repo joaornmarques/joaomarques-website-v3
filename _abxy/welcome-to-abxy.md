@@ -9,7 +9,7 @@ Hi, welcome to ABXY, my blog about gaming. Maybe "blog" is an outdated term, let
 <br><br>
 I’m João, but most friends call me Chari. Videogames were always a special thing for me, even though that sentiment wasn’t shared by anyone in my family, who only saw them as way to waste time, or even an addiction. This appreciation wasn’t something inherited, even I can’t quite explain exactly how it happened, but I may point out my interest for every kind of visual and interactive media as a strong reason. It was not by chance that I became a designer and developer.
 <br><br>
-Eventually I came to the conclusion that gaming was more than a hobby for me. As so, I decided to start writing about the games I play. My intention with this is obviously to share my views on them with everyone interested, but also to document my playthroughs, for sake of my own memory.
+Eventually my interest for the media had grown beside just playing the games. I become interested in knowing the history, the latest news and even how the industry worked. It was by then that I came to the conclusion that for me, gaming was more than a hobby. As so, I decided to start writing about the topic. My intention is obviously to share my views on them with everyone interested, but also to document my playthroughs, for sake of my own memory.
 <br><br>
 
 ### What can you expect from ABXY?
