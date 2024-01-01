@@ -79,7 +79,7 @@ That’s right, I played two Zelda titles in a row. Well, actually, I had an aba
 Action RPG / PS4 / 66 hours
 <br><br>
 
-You may not know, but I already wrote a review for this game. You can [check it here](http://localhost:4000/abxy/cyberpunk-2077).
+You may not know, but I already wrote a review for this game. You can [check it here](https://joaomarques.website/abxy/cyberpunk-2077).
 <br><br><br>
 
 <h4 class="u-mb-1">October 11th</h4>
