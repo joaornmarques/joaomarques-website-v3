@@ -14,6 +14,8 @@
     <header class="c-post-header">
       {% if page.thumbnail %}
         <img src="/assets/images/{{ page.thumbnail }}" class="c-post-header__img"/>
+      {% else %}
+        <img src="/assets/images/abxy-bg-default.svg" class="c-post-header__img"/>
       {% endif %}
       <a class="c-post-header__logo" title="ABXY homepage" href="{{'abxy' | absolute_url}}">
         {% include shapes/abxy.html %}
