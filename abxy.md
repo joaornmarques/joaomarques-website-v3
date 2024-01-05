@@ -24,6 +24,8 @@ layout: abxy-home
     <a href="{{ post.url }}" class="col-12 c-postcard" title="{{ post.title }}">
       {% if post.thumbnail %}
         <img src="/assets/images/{{ post.thumbnail }}" class="c-postcard__img"/>
+      {% else %}
+        <img src="/assets/images/abxy-bg-default.svg" class="c-postcard__img"/>
       {% endif %}
       <article class="c-postcard__content">
         <div>
@@ -40,6 +42,8 @@ layout: abxy-home
     <a href="{{ post.url }}" class="col-12 col-md-6 c-postcard c-postcard--small" title="{{ post.title }}">
       {% if post.thumbnail %}
         <img src="/assets/images/{{ post.thumbnail }}" class="c-postcard__img"/>
+      {% else %}
+        <img src="/assets/images/abxy-bg-default.svg" class="c-postcard__img"/>
       {% endif %}
       <article class="c-postcard__content">
         <div>
@@ -54,7 +58,7 @@ layout: abxy-home
     </a>
   {% endif %}
   {% endfor %}
-  <div class="col-12 col-md-6 u-p-2 u-p-3-md u-bc-gray-1">
+  <div class="col-12 col-md-6 u-p-2 u-p-3-md">
     <p class="u-ft-display u-fw-700 u-ts-5">That's all for now</p>
     <p class="u-ft-sans u-ts-6">More content coming soon.</p>
   </div>
