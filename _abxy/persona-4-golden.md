@@ -1,7 +1,7 @@
 ---
 title: Persona 4 Golden
 subtitle: What’s New, Scooby-kun?
-date: 2024-01-02
+date: 2024-01-05
 tag: review
 thumbnail: p4g.jpg
 layout: abxy-post
