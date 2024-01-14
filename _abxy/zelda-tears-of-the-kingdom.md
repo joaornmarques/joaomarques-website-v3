@@ -1,7 +1,7 @@
 ---
 title: 'The Legend of Zelda: Tears of the Kingdom'
 subtitle: The sky is the limit.
-date: 2024-01-12
+date: 2024-01-14
 tag: review
 thumbnail: totk.jpg
 layout: abxy-post
