@@ -41,7 +41,7 @@ A few weeks ago in a company retreat I had, I tried a few casual multiplayer gam
 RPG / Nintendo Switch
 <br><br>
 
-After enjoying [Persona 4](https://joaomarques.website/abxy/abxy/persona-4-golden) and [5](https://joaomarques.website/abxy/abxy/persona-5-royal) so much, I decided to try the series that started it all, just to realize how brutally difficult it is, to the point that on my third regular battle, I was presented with the Game Over screen. SMT V is what can be described as a true "hardcore" experience. It didn't convinced me in the same way as its more successful spinoff, as so, I will put this game on hold for now. The only thing I truly enjoyed during my brief time with it, was its soundtrack. Seriously, it seems like Atlus simply can't make games without some [bangers](https://www.youtube.com/watch?v=ohi99qWYngc).
+After enjoying [Persona 4](https://joaomarques.website/abxy/persona-4-golden) and [5](https://joaomarques.website/abxy/persona-5-royal) so much, I decided to try the series that started it all, just to realize how brutally difficult it is, to the point that on my third regular battle, I was presented with the Game Over screen. SMT V is what can be described as a true "hardcore" experience. It didn't convinced me in the same way as its more successful spinoff, as so, I will put this game on hold for now. The only thing I truly enjoyed during my brief time with it, was its soundtrack. Seriously, it seems like Atlus simply can't make games without some [bangers](https://www.youtube.com/watch?v=ohi99qWYngc).
 <br><br><br>
 
 
