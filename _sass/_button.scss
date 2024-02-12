@@ -27,6 +27,11 @@
       color: $gray-3;
     }
   }
+
+  &--gray-3 {
+    border-color: $gray-3;
+    color: $gray-3;
+  }
 }
 
 @keyframes hover {

@@ -20,6 +20,9 @@ layout: abxy-home
   {% assign counter = 0 %}
   {% for post in site.abxy reversed %}
   {% assign counter = counter | plus: 1 %}
+  {% if counter > 6 %}
+    {% break %}
+  {% endif %}
   {% if counter == 1 %}
     <a href="{{ post.url }}" class="col-12 c-postcard" title="{{ post.title }}">
       {% if post.thumbnail %}
@@ -59,7 +62,8 @@ layout: abxy-home
   {% endif %}
   {% endfor %}
   <div class="col-12 col-md-6 u-p-2 u-p-3-md">
-    <p class="u-ft-display u-fw-700 u-ts-5">That's all for now</p>
-    <p class="u-ft-sans u-ts-6">More content coming soon.</p>
+    <p class="u-ft-display u-fw-700 u-ts-5">It doesn't end here!</p>
+    <p class="u-ft-sans u-ts-6 u-mb-1">There are more reviews, updates and opinion articles to explore.</p>
+    <a class="c-button c-button--gray-3 u-mb-5" href="{{'abxy-posts' | absolute_url}}" title="Check all posts">Chech all posts >></a>
   </div>
 </section>

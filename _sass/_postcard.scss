@@ -44,6 +44,23 @@
     background-color: $neon-3;
     color: $gray-3;
   }
+
+  &--compact {
+    background-color: transparent;
+    min-height: 0;
+    border-top: solid 1px $gray-3;
+
+    &:last-child {
+      border-bottom: solid 1px $gray-3;
+    }
+
+    &:focus,
+    &:hover {
+      .c-postcard__arrow {
+        transform: rotate(45deg);
+      }
+    }
+  }
 }
 
 .c-postcard__img {
@@ -70,6 +87,16 @@
   @media only screen and (min-width: $breakpoint) {
     padding: $spacing * 3;
   }
+}
+
+.c-postcard__header {
+  display: flex;
+  align-items: baseline;
+}
+
+.c-postcard__arrow {
+  display: inline-block;
+  transition: 0.1s ease;
 }
 
 .c-postcard-footer {

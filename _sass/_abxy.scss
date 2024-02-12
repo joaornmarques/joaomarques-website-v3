@@ -11,4 +11,29 @@
       height: $spacing * 12;
     }
   }
+
+  &--inline {
+    margin: 0 $spacing * 2 0 0;
+    display: inline-flex;
+    svg {
+      height: $spacing * 4;
+    }
+
+    @media only screen and (min-width: $breakpoint) {
+      margin: 0 $spacing * 2 0 0;
+      svg {
+        height: $spacing * 7;
+      }
+    }
+  }
+}
+
+.c-abxy-logo-container {
+  display: flex;
+  align-items: center;
+  margin: $spacing * 12 0 0 0;
+
+  @media only screen and (min-width: $breakpoint) {
+    margin: $spacing * 16 0 0 0;
+  }
 }
