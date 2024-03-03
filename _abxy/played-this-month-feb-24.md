@@ -1,6 +1,6 @@
 ---
 title: 'Played this month – February 2024'
-subtitle: More Persona.
+subtitle: More Persona
 date: 2024-03-01
 tag: update
 layout: abxy-post
