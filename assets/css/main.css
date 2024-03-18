@@ -270,6 +270,10 @@ p { margin: 0; letter-spacing: -0.5px; }
 
 .c-button--light:hover { color: #EDF2F4; }
 
+.c-button--light-alt { border-color: #2B2D42; color: #2B2D42; }
+
+.c-button--light-alt:hover { animation: hover-alt 0.2s; color: #EDF2F4; background-color: #2B2D42; }
+
 .c-button--gray-3 { border-color: #EDF2F4; color: #EDF2F4; }
 
 @keyframes hover { 0% { background-color: transparent; }
@@ -278,6 +282,13 @@ p { margin: 0; letter-spacing: -0.5px; }
   66% { background-color: transparent;
     border-color: #2B2D42; }
   100% { background-color: #FC9911; } }
+
+@keyframes hover-alt { 0% { background-color: transparent; }
+  33% { background-color: #2B2D42;
+    border-color: #EDF2F4; }
+  66% { background-color: transparent;
+    border-color: #EDF2F4; }
+  100% { background-color: #2B2D42; } }
 
 .c-footer { display: flex; justify-content: space-between; padding: 16px; font-family: "Disket-Mono", Helvetica, sans-serif; font-size: 16px; line-height: 16px; flex-direction: column; text-align: right; }
 
@@ -323,6 +334,8 @@ p { margin: 0; letter-spacing: -0.5px; }
 .c-image-cover { position: absolute; z-index: 1; width: 100%; height: 100%; object-fit: cover; filter: grayscale(100%); mix-blend-mode: multiply; opacity: 0.2; }
 
 .c-image-label-wrapper { display: flex; flex-wrap: wrap; }
+
+.c-image-label-link { display: flex; flex-direction: column; justify-content: flex-end; padding-left: 16px; border-left: solid 1px #2B2D42; margin-bottom: 8px; }
 
 .c-image-svg svg { height: 72px; }
 
