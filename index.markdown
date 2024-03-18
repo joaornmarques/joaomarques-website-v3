@@ -1,7 +1,7 @@
 ---
-title: João Marques ✲ UX/UI Designer & Front-end developer
+title: João Marques ✲ UX/UI Designer & Frontend developer
 title_meta: João Marques
-description: UX/UI Designer & Front-end developer
+description: UX/UI Designer & Frontend developer
 thumbnail: thumbnail.jpg
 layout: default
 ---
@@ -11,7 +11,7 @@ layout: default
     João <br>Marques
   </h1>
   <h2 class="u-ft-display u-fw-500 u-ts-4 u-mb-8 u-mt-2">
-    UX/UI Designer & Front-end developer
+    UX/UI Designer & Frontend developer
   </h2>
   <p class="u-ts-6 u-ft-display">Section:<b>{Intro}</b></p>
 </header>
@@ -65,7 +65,13 @@ layout: default
             <div class="u-cf-gray-1 u-mr-1 u-mb-1">
               <img class="c-image-lg" src="assets/images/profile-pic.png"/>
             </div>
-            <p class="u-ts-6 u-ft-display u-mb-1 u-mr-2">profile-pic.png<br>176x176px</p>
+            <div class="u-mb-1">
+              <p class="u-ts-6 u-ft-display u-mb-4 u-mr-2">profile-pic.png<br>176x176px</p>
+            </div>
+            <div class="c-image-label-link">
+              <p class="u-ts-6 u-ft-display u-mb-2 u-mt-2 u-mr-2">// For more info</p>
+              <a class="c-button c-button--light-alt" href="{{'assets/docs/joao-marques-cv-2024.pdf' | absolute_url}}" target="_blank" title="Visit ABXY">Consult CV >></a>
+            </div>
           </div>
         </div>
       </div>

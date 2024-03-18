@@ -28,6 +28,17 @@
     }
   }
 
+  &--light-alt {
+    border-color: $gray-1;
+    color: $gray-1;
+
+    &:hover {
+      animation: hover-alt 0.2s;
+      color: $gray-3;
+      background-color: $gray-1;
+    }
+  }
+
   &--gray-3 {
     border-color: $gray-3;
     color: $gray-3;
@@ -39,4 +50,11 @@
   33% { background-color: $neon-3; border-color: $gray-1; }
   66% { background-color: transparent; border-color: $gray-1; }
   100% { background-color: $neon-3; }
+}
+
+@keyframes hover-alt {
+  0% { background-color: transparent; }
+  33% { background-color: $gray-1; border-color: $gray-3; }
+  66% { background-color: transparent; border-color: $gray-3; }
+  100% { background-color: $gray-1; }
 }

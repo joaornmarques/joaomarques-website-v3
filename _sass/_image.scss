@@ -14,6 +14,15 @@
   flex-wrap: wrap;
 }
 
+.c-image-label-link {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding-left: $spacing * 2;
+  border-left: solid 1px $gray-1;
+  margin-bottom: $spacing;
+}
+
 .c-image-svg {
   svg {
     height: $spacing * 9;
