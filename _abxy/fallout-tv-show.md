@@ -7,7 +7,7 @@ thumbnail: fallout-tv-show.webp
 layout: abxy-post
 ---
 
-While initially I only had envisioned reviewing video games in this space, I decided to open an exception for the Fallout TV show, that premiered recently on Amazon Prime Video. Since this show is set in the same universe as the games and is technically part of the story canon, a review here isn't too out of place. I'm also taking the opportunity to talk about it while it's still a hot topic. Keep in mind that even if this review isn't spoiler heavy, I will mention some facts and events that you might want to discover by yourself, if you haven't watched the TV show yet.
+While I initially only envisioned reviewing video games in this space, I decided to make an exception for the Fallout TV show, that premiered recently on Amazon Prime Video. Since this show is set in the same universe as the games and is technically part of the story canon, a review here isn't too out of place. I'm also taking the opportunity to talk about it while it's still a hot topic. Keep in mind that even if this review isn't spoiler heavy, I will mention some facts and events that you might want to discover by yourself, if you haven't watched the TV show yet.
 <br><br>
 
 ### A vault life
