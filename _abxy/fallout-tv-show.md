@@ -12,7 +12,7 @@ While I initially only envisioned reviewing video games in this space, I decided
 
 ### A vault life
 
-The Fallout universe is set in an alternative reality where nuclear bombs were massively deployed soon after World War II, profoundly affecting human scientific and technological advancements, culture, and the planet's ecosystem. This led to the origin of the "wasteland", where survival is the primary concern.
+The Fallout universe is set in an alternate reality where nuclear bombs were massively deployed soon after World War II, profoundly affecting human scientific and technological advancements, culture, and the planet's ecosystem. This led to the origin of the "wasteland", where survival is the primary concern.
 <br><br>
 Away from the dire reality of the wasteland, a few selected individuals live in underground vaults spread across the United States. It's precisely in one of this vaults that this show starts. We are quickly introduced to one of the main characters, Lucy, and to the busy life inside the vault 33, as the main goal of the vault dwellers - to repopulate the surface once the radiation levels are dissipated from it. However, things went terribly wrong for the inhabitants of Vault 33 when they were invaded and massacred by wastelanders, who also abducted Lucy's father, the vault overseer, in the process. Lucy then decides to leave the vault for the first time in her life to find her father, echoing Fallout 3's prologue.
 <br><br>
