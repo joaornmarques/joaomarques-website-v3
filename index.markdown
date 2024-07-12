@@ -55,7 +55,7 @@ layout: default
       <p class="u-ts-4 text-block u-mb-5">
         I'm a multidisciplinary designer and developer who can't choose between design and code, so I end up doing both.
         <br><br>
-        With more than 7 years of experience, helping build many different types of platforms and websites, my constant motivation is to blend the boundaries between creative and logical thinking.
+        With more than 8 years of experience, helping build many different types of platforms and websites, my constant motivation is to blend the boundaries between creative and logical thinking.
         <br><br>
         I'm currently working at <a class="u-c-gray-1" href="https://www.whitesmith.co/" target="_blank">Whitesmith.</a>
       </p>
@@ -70,7 +70,8 @@ layout: default
             </div>
             <div class="c-image-label-link">
               <p class="u-ts-6 u-ft-display u-mb-2 u-mt-2 u-mr-2">// For more info</p>
-              <a class="c-button c-button--light-alt" href="{{'assets/docs/joao-marques-cv-2024.pdf' | absolute_url}}" target="_blank" title="Visit ABXY">Consult CV >></a>
+              <a class="c-button c-button--light-alt u-mb-2" href="{{'assets/docs/joao-marques-cv-2024.pdf' | absolute_url}}" target="_blank" title="Visit ABXY">Consult CV >></a>
+              <a class="c-button c-button--light-alt" href="https://github.com/joaornmarques" target="_blank" title="Go to Github profile">Github profile >></a>
             </div>
           </div>
         </div>
