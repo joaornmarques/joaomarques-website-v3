@@ -90,7 +90,7 @@ layout: default
       <p class="u-ts-4 u-ft-sans text-block u-mb-5 u-fw-500">
         I also have a small obsession with gaming, by playing as many different games as possible, from the classics to some of the most recent releases.
         <br><br>
-        When not playing, I'm writing about it on my fresh new blog, ABXY.
+        When not playing, I'm writing about it on ABXY, my blog dedicated to gaming thoughts, reviews and something in between.
       </p>
       <div class="c-image-label-wrapper u-mb-3">
         <div class="c-image-svg u-cf-neon-1 u-mr-1 u-mb-1">
