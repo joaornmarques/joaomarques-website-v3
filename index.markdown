@@ -11,7 +11,7 @@ layout: default
     João <br>Marques
   </h1>
   <h2 class="u-ft-display u-fw-500 u-ts-4 u-mb-8 u-mt-2">
-    UX/UI Designer & Frontend developer
+    Frontend developer & UX/UI Designer
   </h2>
   <p class="u-ts-6 u-ft-display">Section:<b>{Intro}</b></p>
 </header>
@@ -53,9 +53,7 @@ layout: default
     <div class="u-p-2 u-pt-2 u-pb-2 u-p-3-md">
       <p class="u-ts-6 u-ft-display u-mb-4">Section:<b>{about-me}</b></p>
       <p class="u-ts-4 text-block u-mb-5">
-        I'm a multidisciplinary designer and developer who can't choose between design and code, so I end up doing both.
-        <br><br>
-        With more than 8 years of experience, helping build many different types of platforms and websites, my constant motivation is to blend the boundaries between creative and logical thinking.
+        I'm a multidisciplinary developer and designer with more than 8 years of experience, helping build many different types of platforms and websites. My constant motivation is to blend the boundaries between creative and logical thinking.
         <br><br>
         I'm currently working at <a class="u-c-gray-1" href="https://www.whitesmith.co/" target="_blank">Whitesmith.</a>
       </p>
