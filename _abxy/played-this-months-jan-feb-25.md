@@ -1,7 +1,7 @@
 ---
 title: 'Played this months – January / February 2025'
 subtitle: A lot to catch up
-date: 2025-02-02
+date: 2025-03-02
 tag: update
 layout: abxy-post
 ---
@@ -78,7 +78,7 @@ Two weeks ago I had an injury that affected my left hand mobility, as such, I wa
 Action-adventure / Game Boy
 <br><br>
 
-_Alentejo Tinto's Law_ is a Portuguese game based on the region that gives it its name, made for the Game Boy, with a physical release, in 2025. If it piqued your curiosity, check my review of it.
+_Alentejo Tinto's Law_ is a Portuguese game based on the region that gives it its name, made for the Game Boy, with a physical release, in 2025! If it piqued your curiosity, check out [my review for the game](https://joaomarques.website/abxy/alentejo-tintos-law).
 <br><br><br>
 
 ***
