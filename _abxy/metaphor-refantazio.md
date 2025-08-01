@@ -37,7 +37,7 @@ Archetypes, much like Personas from, you know, _Persona_, work as almighty creat
 While Archetypes are the centrepiece of the game's combat, they aren't the only option. During dungeon exploration, we have two options to approach enemies — via direct combat, or entering in a classic turn-based combat. If the enemies are weak, direct combat can kill them instantly, but when dealing with stronger opponents, this option can only make a dent at best, but it allows to enter in vantage for the turn-based combat, if the enemy doesn't counter back. This hybrid combat system is something that makes so much sense that it will be a bit harder for me going back to other games of this genre without it. In some dungeons I must admit it was the only saving grace, as many share the same design and overall structure. In my opinion, _Persona 5_ continues to be the best Atlus title in that regard.
 <br><br>
 
-{% include post-video.html youtube_id='zmMz9QjUHmA' description="Metaphor is quite a spectacle for the eye (and ear). This images aren't just a compilation of the best moments, the entire game is just like this." %}
+{% include post-video.html youtube_id='zmMz9QjUHmA' description="Metaphor is quite a spectacle for the eye (and ear). This images aren't just a compilation of its best moments, the entire game is just like this." %}
 <br>
 
 ### Medieval fantasy done right
