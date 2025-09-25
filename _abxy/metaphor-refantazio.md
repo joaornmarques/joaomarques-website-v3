@@ -15,7 +15,7 @@ This review is part of my (very late) [2024 in Gaming](https://joaomarques.websi
 <br>
 It's hard to talk about _Metaphor: ReFantazio_ without mentioning _Persona_ and Atlus as a whole, so, let's start right there. This game, or at least its existence, was announced in the distant year of 2016 under the name _Project Re:Fantasy_, alongside a new internal division at Atlus named Studio Zero with Katsura Hashino at its helm. Hashino was the director of _[Persona 3](https://joaomarques.website/abxy/persona-3-reload)_, _[4](https://joaomarques.website/abxy/persona-4-golden)_ and _[5](https://joaomarques.website/abxy/persona-5-royal)_, arguably the three most successful and beloved games ever released by the japanese company, so it was only natural for the expectations for this new title to be quite high, at least for those who were aware of it. I wasn't one of them, I can tell you that. I wasn't a _connoisseur_ of this fantastic series back then. But I already was when this game was properly revealed under it's final name in 2023. That was the moment when I caught the hype train and never left it.
 <br><br>
-From each trailer released, the opportunity to try it before release at [Gamescom 2024](http://localhost:4000/abxy/gamescom-24) and then finally playing it in October of last year, as soon as it got out, my journey with this game was amazing.
+From each trailer released, the opportunity to try it before release at [Gamescom 2024](https://joaomarques.website/abxy/gamescom-24) and then finally playing it in October of last year, as soon as it got out, my journey with this game was amazing.
 <br><br>
 
 ### A tournament for the throne
