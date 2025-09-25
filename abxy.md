@@ -64,6 +64,35 @@ layout: abxy-home
   <div class="col-12 col-md-6 u-p-2 u-p-3-md">
     <p class="u-ft-display u-fw-700 u-ts-5">It doesn't end here!</p>
     <p class="u-ft-sans u-ts-6 u-mb-1">There are more reviews, updates and opinion articles to explore.</p>
-    <a class="c-button c-button--gray-3 u-mb-5" href="{{'abxy-posts' | absolute_url}}" title="Check all posts">Chech all posts >></a>
+    <a class="c-button c-button--gray-3" href="{{'abxy-posts' | absolute_url}}" title="Check all posts">Chech all posts >></a>
+  </div>
+  <div class="col-12 col-md-6 c-postcard c-postcard--info-dark">
+    <article class="c-postcard__content">
+      <div>
+        <p class="c-tag u-mb-2">Podcast</p>
+        <div class="c-image-svg-md u-cf-gray-3">
+          {% include shapes/tgt.html %}
+        </div>
+      </div>
+      <div class="u-mt-3">
+        <p class="u-ft-sans u-ts-6 u-mb-1">Every Sunday night, a new live episode!</p>
+        <a class="c-button c-button--gray-3 u-mr-1" href="https://www.youtube.com/@TheGamesTome" target="_blank" title="The Games Tome - YouTube">Youtube >></a>
+        <a class="c-button c-button--gray-3" href="https://open.spotify.com/show/2qphywGobVNkB5BRF1lxMW" target="_blank" title="The Games Tome - Spotify">Spotify >></a>
+      </div>
+    </article>
+  </div>
+  <div class="col-12 col-md-6 c-postcard c-postcard--info-light">
+    <article class="c-postcard__content">
+      <div>
+        <p class="c-tag u-mb-2">Reviews</p>
+        <div class="c-image-svg-xs u-cf-gray-1">
+          {% include shapes/sidequest.html %}
+        </div>
+      </div>
+      <div class="u-mt-3">
+        <p class="u-ft-sans u-ts-6 u-mb-1">Occasional reviews for new game releases.</p>
+        <a class="c-button c-button--light u-mr-1" href="https://sidequest.pt/" target="_blank" title="Sidequest.pt">Sidequest.pt >></a>
+      </div>
+    </article>
   </div>
 </section>

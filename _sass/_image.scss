@@ -30,9 +30,21 @@
   }
 }
 
+.c-image-svg-xs {
+  svg {
+    height: $spacing * 4;
+  }
+}
+
 .c-image-svg-sm {
   svg {
     height: $spacing * 7;
+  }
+}
+
+.c-image-svg-md {
+  svg {
+    height: $spacing * 14;
   }
 }
 

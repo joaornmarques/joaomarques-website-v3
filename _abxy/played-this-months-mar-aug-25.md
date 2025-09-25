@@ -171,7 +171,7 @@ Another game that came to me through [sidequest.pt](https://sidequest.pt/). Luck
 ***
 
 <br>
-And that's all! I must admit, writing this wasn't easy, and as more time passed, more difficult it became. That's why this will be the last "Played this months" report. It's just not feasible for me to keep posting this updates regularly while contributing to a podcast and another website. In case you want to keep check of what I'm playing, listen **The Games Tome** in [YouTube](https://www.youtube.com/@TheGamesTome), [Spotify](https://open.spotify.com/show/2qphywGobVNkB5BRF1lxMW?si=ba6ab45d02c74789), or your favourite podcast platform. For gaming news and reviews of the latest releases, check [Sidequest.pt](https://sidequest.pt/), where I have the pleasure of contributing occasionally with a few reviews of my own.
+And that's all! I must admit, writing this wasn't easy, and as more time passed, more difficult it became. That's why this will be the last "Played this months" report. It's just not feasible for me to keep posting this updates regularly while contributing to a podcast and another website. In case you want to keep check of what I'm playing, listen **The Games Tome** in [YouTube](https://www.youtube.com/@TheGamesTome), [Spotify](https://open.spotify.com/show/2qphywGobVNkB5BRF1lxMW), or your favourite podcast platform. For gaming news and reviews of the latest releases, check [Sidequest.pt](https://sidequest.pt/), where I have the pleasure of contributing occasionally with a few reviews of my own.
 <br><br>
 This is not the end of ABXY, just the end of the regular updates - that weren't even regular anymore. I want to keep this space for occasional opinion pieces that don't fit in any of my other outlets. Stay tuned. See you next time!
 <br><br>
