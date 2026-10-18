@@ -1,7 +1,7 @@
 ---
-title: João Marques ✲ UX/UI Designer & Frontend developer
+title: João Marques ✲ A Design Engineer
 title_meta: João Marques
-description: UX/UI Designer & Frontend developer
+description: A Design Engineer
 thumbnail: thumbnail.jpg
 layout: default
 ---
@@ -11,7 +11,7 @@ layout: default
     João <br>Marques
   </h1>
   <h2 class="u-ft-display u-fw-500 u-ts-4 u-mb-8 u-mt-2">
-    Frontend developer & UX/UI Designer
+    A Design Engineer.
   </h2>
   <p class="u-ts-6 u-ft-display">Section:<b>{Intro}</b></p>
 </header>
